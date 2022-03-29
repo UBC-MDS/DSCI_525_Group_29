@@ -14,7 +14,7 @@ The dataset was gathered by Dr. Tomas Beuzen and was initally obtained from the 
 
 Names and GitHub @usernames of contributors listed below:
 
-Arlin Cherian @arlincherian
-Artan Zandian @
-Shi Yan Wang @
+- Arlin Cherian @arlincherian
+- Artan Zandian @
+- Shi Yan Wang @
 
